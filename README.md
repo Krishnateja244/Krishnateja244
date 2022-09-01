@@ -21,7 +21,7 @@
 ### :man_student: About Me :
 - :robot: I am a Robotics enthusiast and Technology geek 
 - :car: My area of interests include Autonomous systems, Computer vision, Artificial intelligence
-- Currently looking for my Master thesis in the field of COmputer vision and Deep learning
+- Currently looking for my Master thesis in the field of Computer vision and Deep learning
 - 📫 How to reach me: krishnatejanallanukala@gmail.com
 
 ---
