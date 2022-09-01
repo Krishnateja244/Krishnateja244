@@ -40,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow"  alt="Tensorflow" width="60" height="50"/>
   <img src="https://docs.pickit3d.com/en/2.0/_images/ros-logo.png" title="ROS"  alt="ROS" width="80" height="40"/>
   <img src="https://camo.githubusercontent.com/42ecfd00d0ac620402800cba923bc7ba75b20dd14f60debddc007ccf427e41d7/68747470733a2f2f626c6f672e6b616b616f63646e2e6e65742f646e2f626b65575a4b2f62747149537536725156692f56546355584b4976726f76536855714e3265364a706b2f696d672e706e67" title="Sklearn"  alt="Sklearn" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="Cplus"  alt="Cplus" width="60" height="50"/>
   <img src="https://www.fullstackpython.com/img/logos/scipy.png" title="Scipy"  alt="Scipy" width="80" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="50"/>
