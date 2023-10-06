@@ -19,9 +19,9 @@
 </h1>
 
 ### :man_student: About Me :
-- :robot: I am a Robotics enthusiast and Technology geek 
-- :car: My area of interests include Autonomous systems, Computer vision, Artificial intelligence
-- Currently looking for my Master thesis in the field of Computer vision and Deep learning
+- :robot: I am a Robotics & Machine Learning enthusiast and Technology geek 
+- :car: My areas of interest include Autonomous systems, Computer vision, Artificial intelligence
+- Currently looking for full-time roles in the field of Computer vision and Deep learning
 - 📫 How to reach me: krishnatejanallanukala@gmail.com
 
 ---
